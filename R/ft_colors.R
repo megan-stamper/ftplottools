@@ -1,6 +1,9 @@
 
 
 ft_colors <- function(palette = "main"){
+  if(!length(palette) == 1){
+    stop("Input must be string of palette name")
+  }
   main <- c("#9e2f50","#ff7f8a","#3a70af","#f6801a","#2bbbbf","#410057","#505050","#99c6fb","#27757b","#8b572a")
   greys <- c("#b0b0b0","#999999","#777777","#505050","#333333","#000000")
   reds <- c("#ebbcb3","#df9c92","#d17c70","#c36256","#b1493f","#9e2f50")
