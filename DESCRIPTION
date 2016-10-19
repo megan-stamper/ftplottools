@@ -1,9 +1,10 @@
 Package: ftplottools
-Type: GGPlot Themes And Styles For FT Graphs
-Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: person("Oliver", "Elliott", email = "oliver.elliott@ft.com", role = c("aut","cre"))
-Maintainer: oliver.elliott@ft.com
+Date: 2016-10-20
+Title: Styles For FT Graphs
+Authors@R: person("Oliver", "Elliott", email = "oliver.elliott@ft.com", role = c("aut","cre"))
+Author: Oliver Elliott [aut, cre]
+Maintainer: Oliver Elliott <oliver.elliott@ft.com>
 Description: A collection of plot themes and styles to make your plots look beautiful and FT-like.
-License: MIT (https://opensource.org/licenses/MIT) + file
+License: MIT + file
 LazyData: TRUE
