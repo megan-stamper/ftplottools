@@ -10,3 +10,4 @@ Description: A collection of plot themes and styles to make your plots look
 License: MIT + file
 LazyData: TRUE
 RoxygenNote: 5.0.1
+Imports: ggplot2
