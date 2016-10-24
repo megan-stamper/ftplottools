@@ -6,6 +6,11 @@
 \usage{
 ft_theme(base_size = 12, base_family = "")
 }
+\arguments{
+\item{base_size}{The base font size}
+
+\item{base_family}{Font family}
+}
 \description{
 ggplot2 theme for FT graphs.
 }
