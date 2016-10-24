@@ -15,8 +15,4 @@ A vector of colour hex codes
 \description{
 The \code{ft_colors} function returns a different ft color palettes to use in your graphs.
 }
-\examples{
-ft_colors("paired")
-ft_colors()
-}
 

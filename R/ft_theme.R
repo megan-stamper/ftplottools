@@ -3,7 +3,7 @@
 
 ft_theme <- function(base_size = 12, base_family = "") {
   half_line <- base_size/2
-  theme(
+  ggplot2::theme(
     line = ggplot2::element_line(colour = "black",
                         size = 0.5,
                         linetype = 1,

@@ -3,9 +3,6 @@
 #' The \code{ft_colors} function returns a different ft color palettes to use in your graphs.
 #' @param palette A string.
 #' @return A vector of colour hex codes
-#' @examples
-#' ft_colors("paired")
-#' ft_colors()
 ft_colors <- function(palette = "main"){
   if(!length(palette) == 1){
     stop("Input must be string of palette name")
