@@ -14,5 +14,6 @@ A vector of colour hex codes
 }
 \description{
 The \code{ft_colors} function returns a different ft color palettes to use in your graphs.
+Palette list: main, greys, reds, blues, paired
 }
 
