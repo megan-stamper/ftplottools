@@ -17,7 +17,7 @@ ft_colors <- function(palette = "main"){
   pal_out <- switch(palette,
                     main = main,
                     greys = greys,
-                    redds = reds,
+                    reds = reds,
                     blues = blues,
                     paired = paired)
   if(length(pal_out) == 0){
