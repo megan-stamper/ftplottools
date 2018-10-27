@@ -12,4 +12,5 @@ License: MIT + file
 LazyData: TRUE
 RoxygenNote: 6.1.0
 Imports: ggplot2,
-    sysfonts
+    sysfonts,
+    showtext

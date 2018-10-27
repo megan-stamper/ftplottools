@@ -34,5 +34,7 @@ ft_fonts <- function(fonts_filepath = '~/.RFonts/'){
   font_names_out <- c(font_financier,
                       font_metric)
 
+  showtext::showtext_auto()
+
   return(font_names_out)
 }
