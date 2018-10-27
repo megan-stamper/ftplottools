@@ -1,5 +1,5 @@
 # ftplottools
-R Package for FT ggplot graph theme and colours
+R Package for FT ggplot graph theme, colors and fonts
 
 Install using devtools:
 ```
